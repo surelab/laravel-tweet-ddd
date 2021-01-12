@@ -12,7 +12,7 @@ use Infrastructure\Application\Validator\Validator;
 
 class AppServiceProvider extends ServiceProvider
 {
-    public array $bindings = [
+    public  $bindings = [
         Hashable::class        => Hasher::class,
         UuidGeneratable::class => UuidGenerator::class,
         Validatable::class     => Validator::class,
