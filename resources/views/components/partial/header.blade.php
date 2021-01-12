@@ -2,7 +2,7 @@
     <nav class="uk-section-primary uk-navbar">
         <div class="uk-navbar-left uk-margin-small-left">
             <ul class="uk-navbar-nav">
-                <li class="uk-active"><a href="/">Laravel-tweet-ddd</a></li>
+                <li class="uk-active"><a href="/">Sure Tweets</a></li>
             </ul>
         </div>
         {{-- navbar for PC --}}
