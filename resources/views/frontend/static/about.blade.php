@@ -7,6 +7,6 @@
 @section('content')
 <h1 class="text-center">About</h1>
 <p class="text-center">
-    Laravelでtwitter風アプリケーションをドメイン駆動設計で開発するプロジェクト
+About Text Here
 </p>
 @endsection
