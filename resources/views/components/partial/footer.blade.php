@@ -3,7 +3,6 @@
         <div class="uk-navbar-left uk-margin-left">
             <ul class="uk-navbar-nav">
                 <li class="uk-child">
-                    <small>Created by <a class="uk-text-secondary" href="https://github.com/naoyaUda">708u</a></small>
                 </li>
             </ul>
         </div>
